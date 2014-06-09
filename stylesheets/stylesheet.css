@@ -27,6 +27,7 @@ time, mark, audio, video {
   border: 0;
   font: inherit;
   vertical-align: baseline;
+  background-image:url('images/ocean_fish_background.jpg');
 }
 
 /* HTML5 display-role reset for older browsers */
